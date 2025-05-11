@@ -10,11 +10,11 @@ A classic Snake Game made with Python
 -Pygame
 
 How to run
-# 1. Clone this repo
+1. Clone this repo
 git clone https://github.com/salsafon/SNAKE-.git
 
-# 2. Go into the project directory
+2. Go into the project directory
 cd SNAKE-
 
-# 3. Run the game
+3. Run the game
 python main.py
